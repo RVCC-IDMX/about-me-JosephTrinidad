@@ -151,4 +151,9 @@ header {
     text-align: center;
     align-content: center;
 }
+/* Contact Form*/
+
+#formElements{
+    display: grid;
+}
     
