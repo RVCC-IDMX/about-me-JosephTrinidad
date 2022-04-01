@@ -155,5 +155,49 @@ header {
 
 #formElements{
     display: grid;
+    row-gap: .5em;
+
 }
+#contact{
+    background-color: black;
+    padding:1rem;
+    max-width:600px;
+    margin: 2rem auto;
+    color: rgba(223, 16, 16, 0.796);
+}
+fieldset{
+    border: 2px solid red;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 2rem;
+}
+legend{
+    background-color: white;
+    border:2px solid rgb(255, 0, 0);
+    color: rgb(106, 56, 56);
+    padding: .5em;
+    border-radius: 2rem;
+}
+#contact input #contact textarea, #contact select, #contact button{ 
+    padding: .5em;
+    font-size: 1rem;
+}
+
     
+#contact ul{
+    list-style: none;
+    padding: 0px;
+}
+#contact li{
+    margin: 1rem;
+ 
+}
+#contact button{
+    background-color: white;
+    color:black;
+    border: 1px solid red;
+    max-width: 400px;
+    width: 50%;
+    justify-self: center;
+
+}
