@@ -159,11 +159,16 @@ header {
 
 }
 #contact{
+    border-radius: 2rem;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url(https://i.pinimg.com/736x/d6/a8/e4/d6a8e4c46348a889082edb3954290bdc.jpg);
+    border:2px solid rgb(255, 0, 0);
     background-color: black;
+    font-size: 20px;
     padding:1rem;
     max-width:600px;
     margin: 2rem auto;
-    color: rgba(223, 16, 16, 0.796);
+    color: white;
 }
 fieldset{
     border: 2px solid red;
@@ -174,7 +179,7 @@ fieldset{
 legend{
     background-color: white;
     border:2px solid rgb(255, 0, 0);
-    color: rgb(106, 56, 56);
+    color: rgb(0, 0, 0);
     padding: .5em;
     border-radius: 2rem;
 }
