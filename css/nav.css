@@ -90,7 +90,7 @@ media query for non-mobile nav bar
 min-width set to width of nav elements 
 such that no text wraps 
 */
-@media screen and (min-width: 60rem) {
+@media screen and (min-width: 79.9rem) {
     
     .navbar{
         flex-direction: row;
