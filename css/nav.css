@@ -25,7 +25,7 @@ main{
 /* navbar */
 
 .navbar{
-    background-color: gray;
+    background-color: #151515;
     color:whitesmoke;
     display: flex;
     flex-direction: column;
