@@ -19,6 +19,9 @@ The color scheme that I used in my project for the nav.css was for the backgroun
 
 ## **Citation Of Any Sources That I Used**
 https://developer.mozilla.org/en-US/
+https://www.favicon-generator.org/
+https://www.1001fonts.com/fat+google-web-fonts.html?page=1&items=50
+https://www.figma.com/file/W2KqswpGerB7LE4n3jzN7X/Black-Ops-One?node-id=0%3A1
 
 ## **License For My Project**
 
