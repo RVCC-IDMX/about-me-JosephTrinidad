@@ -6,6 +6,7 @@ Joseph Trinidad
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/70ab91a6-cd4c-443c-a540-f116fb4e5cb0/deploy-status)](https://app.netlify.com/sites/upbeat-mayer-903b22/deploys)
 
+![Netlify Status](img/logo-96x96.svg)
 
 ## **Description On My About Me Project**
 
