@@ -32,6 +32,56 @@ main{
     font-size: 1.5rem;
     margin-bottom: 1rem;
     padding: 1rem;
+    display: none;
+}
+.nav{
+    position: absolute;
+    text-align: left;
+    top: 100%;
+    left: 0;
+    background: var(--background);
+    width: 100%;
+    transform: scale(1,0);
+    transition: 400ms ease-in-out;
+}
+.nav-toggle:checked ~ nav{
+    display: none;
+    
+}
+.nav-toggle{
+    /*display: none;*/
+}
+.nav-toggle-label{
+    position: relative;
+    bottom: 40px; left: 40px;
+    top: 0;
+    right: 0;
+    margin-right: 4em;
+   
+    
+    
+    
+}
+
+.nav-toggle-label span, .nav-toggle-label span::before, .nav-toggle-label span::after {
+    display:block;
+    background: white;
+    height: 2px;
+    width: 2em;
+    border-radius: 2px;
+
+
+
+}
+.nav-toggle-label span, .nav-toggle-label span::before, .nav-toggle-label span::after {
+    content:'';
+    position: absolute;
+}
+.nav-toggle-label span::before{
+    bottom: 7px;
+}
+.nav-toggle-label span::after{
+    top: 7px;
 }
 
 
