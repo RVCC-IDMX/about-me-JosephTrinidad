@@ -17,7 +17,8 @@ We used h2, ul and li which will allow me to make it into a list format on my we
 ## **The Color Scheme on My About Me Project** 
 
 The color scheme that I used in my project for the nav.css was for the background-color i’ve used the color gray with the color whitesmoke so it can fit in with the background of the whole website so it can be easier to look at in-general. And I did the same thing for the navbar-links a which will also help out the website to be easier to look at but also due to the color once you press one of the sections it will highlight to show you that you are interacting with the website. For the style.css I've used background-color which is #F2BB66 and for the color I've used #3D4CC4 which changes the things within the body. In the #hobbies ul li:nth-child(even) I've used the color:rgba(0, 0, 0, 0.459); which is black to illustrate the colors towards the hobbies section.
-
+## **Nav-Bar process**
+The Nav-bar process was pretty hard tbh I though it would be easiy due to watching the videos first I was going to use the video that you have to use images but then at first it was working but then I need the correct code to make it fit with the computer so it could look good but that didn't happend. Then I did the one where you don't need any pictures you basically creating the nav-bar through CSS it was working for a while but then it didn't work I was having trouble with everything and I wanted it to look nice. Then I found a website that had an animation with the nav-bar created which was great because it had animation and it will go from a hamburger icon to an x which is great. Then I used the proffesor help and guidance to actually make the Icon work with me. I figured it out over the weekend to insert an animation for the sections to pop out smoothly. As of now the nav-bar is working great because now when you click the hamburger it will only show the x icon which is great because that icon indicates for you to get out of the section. I also with some help made it fit into a phone so once it is created it will only show the sections when its in a phone device.
 ## **Citation Of Any Sources That I Used**
 https://developer.mozilla.org/en-US/
 https://www.favicon-generator.org/
@@ -28,8 +29,9 @@ https://www.techrepublic.com/article/how-to-create-an-image-hover-preview-effect
 https://wpdatatables.com/css-image-hover-effects/#:~:text=Image%20hover%20effects%20create%20an%20opportunity%20to%20add,run%20smoothly%20no%20matter%20how%20many%20you%20add
 https://qodeinteractive.com/magazine/how-to-add-image-hover-effects-in-wordpress/#:~:text=Image%20hover%20effects%20are%20a%20way%20to%20make,options%20in%20creating%20engaging%20experiences%20for%20your%20visitors
 https://www.bing.com/images/search?view=detailV2&ccid=ZS7weiCY&id=2CC0527090002AB3BFD576BA904D1C9821097799&thid=OIP.ZS7weiCY20pmuSxvgYkA_gHaIP&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.652ef07a2098db4a66b92c6f818900fe%3frik%3dmXcJIZgcTZC6dg%26riu%3dhttp%253a%252f%252ffc04.deviantart.net%252ffs71%252ff%252f2013%252f089%252f2%252ff%252fwater_fire_ying_yang_by_lucasmottavalerio-d5zuxxh.jpg%26ehk%3d4d1sECrHY99BNP4rGw7I4D0PqBQgJQy9Dsz7dYJ8kyc%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=765&expw=688&q=fire+ying+yang&simid=608012754877482714&FORM=IRPRST&ck=1186414C92529B2BA7EDF5B8372DB25E&selectedIndex=4&ajaxhist=0&ajaxserp=0
-https://codemyui.com/
-https://www.youtube.com/watch?v=8QKOaTYvYUA&t=594s
+
+https://codingislove.com/hamburger-navigation-bar/#:~:text=Creating%20Hamburger%20navigation%20bar%20using%20HTML%20and%20CSS,at%20the%20center%20of%20the%20browser.%20by...%20
+
 
 ## **License For My Project**
 
