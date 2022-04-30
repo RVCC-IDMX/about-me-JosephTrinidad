@@ -1,7 +1,7 @@
 body {
     font-family:Roboto;
     background-color: #F2BB66;
-    color:#3D4CC4;
+    color:#000000;
 }
 
 
@@ -19,7 +19,7 @@ header {
 }
 
 #hero, footer {
-    color:#3D4CC4;
+    color:#000000;
     border: 2px solid #3D4CC4;
     background-color: #819463;
     text-align:center;
@@ -27,7 +27,9 @@ header {
 }
 /*Hero Section*/
 #hero img{
-    width:300px;
+    border-radius: 10% / 50%;
+    border:3px solid black;
+    max-width:30%;
 }
 /*Bio Section*/
 #bio{
@@ -51,9 +53,14 @@ header {
 
 #gallery{
     border: 2px solid #3D4CC4;
+    border-radius: 30px;
+    
 }
 
 #gallery img {
+
+    border-radius: 25% 10%;
+    border:3px solid black;
     max-width:100%;
 }
 #gallery figure{
@@ -63,6 +70,7 @@ header {
 #lit{
     border: 2px solid #3D4CC4;
     margin-bottom:2rem;
+    border-radius: 30px;
 
 }
 #lit div{
@@ -78,7 +86,7 @@ header {
 
 /* Dropcaps*/
 
-#lit div p:nth-child(3n+1):first-letter {
+#lit div p:first-letter {
     color:red;
     float:left;
     font-size:3em;
@@ -139,6 +147,7 @@ header {
     border: 2px solid #3D4CC4;
     width: auto;
     align-items: center;
+    border-radius: 10% / 50%;
     
 
 }
